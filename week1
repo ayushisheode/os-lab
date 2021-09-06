@@ -1,4 +1,4 @@
-Q2
+//Q2
 #include<bits/stdc++.h>
 using namespace std;
 int main()
